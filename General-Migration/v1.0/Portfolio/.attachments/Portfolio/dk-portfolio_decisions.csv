@@ -1,0 +1,13 @@
+Summary,Description,Components,Issue Type,Labels
+APA_DEC_Decision on Discovery Tooling,"Decision Statement Example: It was decided to use <tool name> as discovery tooling.
+
+Implementation details can be found in the associated wiki page.",Portfolio,Story,PortfolioTooling
+APA_DEC_Decision on Data Repository,"Decision Statement Example: It was decided to store all discovery data in <repository name and link> which will be accessible by <groups/teams names>
+
+Implementation details can be found in the associated wiki page.",Portfolio,Story,PortfolioData
+APA_DEC_Decision on Scope,"Decision Statement Example: It was decided that the following applications and infrastructure will be in scope of this project and targeted by discovery tooling <include inventory name and link>
+
+Implementation details can be found in the associated wiki page.",Portfolio,Story,PortfolioScope
+APA_DEC_Decision on Migration Stretegy,"Decision Statement Example: It was decided that the primary Migration Strategy will be <strategy name> accoring to business drivers and guiding principles
+
+Implementation details can be found in the associated wiki page.",Portfolio,Story,PortfolioStrategy

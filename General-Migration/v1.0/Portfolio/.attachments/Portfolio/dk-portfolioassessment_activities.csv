@@ -1,0 +1,167 @@
+Label,Summary,Description,Components,Issue Type,Epic Link,Epic Name,Estimate,Story Points,Labels,Assignee,Status,Issue id,Parent id
+PortfolioAssessment,APA-E01-Portfolio Pre-Requisites,APA-E01-Portfolio Pre-Requisites,Portfolio,Epic ,,APA-E01-Portfolio Pre-Requisites,,,PortfoloInitiation,,To Do,,
+PortfolioAssessment,APA-E01-001-Update Portfolio Activity Plan,"As a Migration Consultant I want review/update the Portfolio Activity Plan
+Acceptance Criteria:
+-Portfolio Timeline updated",Portfolio,Story,APA-E01-Portfolio Pre-Requisites,,,2,PortfoloInitiation,,To Do,,
+PortfolioAssessment,APA-E01-002-Assess Discovery Data Sources & Tooling,"As a Migration Consultant I want to conduct a workshop so that I can identify and assess existent sources of data and  discovery tooling needs
+Acceptance Criteria:
+-CMDB/Inventory extracts obtained
+-Discussed/Analized options for Programmatic Discovery Tooling
+-Discussed need for tooling security assessment and assessment started
+-MRA/CART results reviewed (if applicable)
+-Sources of data (e.g., performance, monitoring, and management tools) analyzed and documented
+-Discovery Tooling deployment requirements and overview of the customer environment (e.g., authentication mechanisms, deployment methods, security zones) documented",Portfolio,Story,APA-E01-Portfolio Pre-Requisites,,,2,PortfoloInitiation,,To Do,,
+PortfolioAssessment,APA-E01-003-Procure Discovery Tooling and/or Obtain Approval for Deployment,"As a Migration Consultant I want to work with the relevant teams so that a Discovery Tool can be procured/approved for deployment
+Acceptance Criteria:
+-Discovery Tool Procured
+-Discovery Tool Approved for Deployment",Portfolio,Story,APA-E01-Portfolio Pre-Requisites,,,13,PortfoloInitiation,,To Do,,
+PortfolioAssessment,APA-E01-004-Identify Stakeholders for Portfolio Discovery Party,"As a Migration Consultant I want to identify key stakeholders so that the Portfolio Discovery Party can be planned and performed
+Acceptance Criteria:
+- Stakeholders confirmed",Portfolio,Story,APA-E01-Portfolio Pre-Requisites,,,2,PortfoloInitiation,,To Do,,
+PortfolioAssessment,APA-E02-Portfolio Discovery,APA-E02-Portfolio Discovery,Portfolio,Epic ,,APA-E02-Portfolio Discovery,,,PortfolioDiscovery,,To Do,,
+PortfolioAssessment,APA-E02-001-Plan Portfolio Discovery Party,"As a Migration Consultant I want to perform planning for the Discovery Party so that the Party can take place
+Acceptance Criteria:
+-Party requirements reviewed
+-Party checklist completed
+-Party agenda validated/updated
+-Party expected outcomes validated/updated",Portfolio,Story,APA-E02-Portfolio Discovery,,,3,PortfolioDiscovery,,To Do,,
+PortfolioAssessment,APA-E02-002-Document Portfolio Business Drivers,"As a Migration Consultant I want to document Business Drivers (Business Outcomes and Goals) and Technical Guiding Principles so that I can use them as input for subsequent portfolio activities. 
+Note: in the context of a Mobilize Engagement this item might be covered during the Launch Ready Plan (LRP) sessions. Validate that the outcomes captured during the LRP as valid in the Portfolio Assessment context.
+Acceptance Criteria:
+-Business Drivers and Technical Guiding Principles documented",Portfolio,Story,APA-E02-Portfolio Discovery,,,2,PortfolioDiscovery,,To Do,,
+PortfolioAssessment,APA-E02-003-Review Application/Infrastructure Attributes and Data Requirements,"As a Migration Consultant I want to socialize data requirements for the Portfolio Discovery Party so that Party participants understand the data elements that are required, how and where data will be stored, and have suffient time to gather data points in advance of subsequent activities.
+-Data requirements and attributes reviewed/socialized/discussed
+-Data Repository established (single source of truth)",Portfolio,Story,APA-E02-Portfolio Discovery,,,2,PortfolioDiscovery,,To Do,,
+PortfolioAssessment,"APA-E02-004-Identify Addressable Application/Infrastructure Scope	","As a Migration Consultant I want to review the addressable application and infrastructure scope for this program so that I can plan for Data Collection 
+Acceptance Criteria:
+-Addressable scope identified
+-Target systems for discovery tooling identifed
+-Target systems for manual discovery identified (cases where tooling cannot be used due to compatibility/support or other reasons)",Portfolio,Story,APA-E02-Portfolio Discovery,,,3,PortfolioDiscovery,,To Do,,
+PortfolioAssessment,APA-E02-005-Establigh Default Application Prioritization Criteria,"As a Migration Consultant I want to establish an initial application prioritization criteria so that an indicative group of prioritized applications can be identified
+-Initial application Prioritization Criteria established",Portfolio,Story,APA-E02-Portfolio Discovery,,,1,PortfolioDiscovery,,To Do,,
+PortfolioAssessment,APA-E02-006-Create Discovery Tooling roll-out plan,"As a Migration Consultant I want to use the identified addresable scope to ellaborate a roll-out plan/schedule for discovery tooling so that all in-scope systems are targeted/accesible by the tool of choice
+Acceptance Criteria:
+-Roll-out plan/schedule defined
+",Portfolio,Story,APA-E02-Portfolio Discovery,,,2,PortfolioDiscovery,,To Do,,
+PortfolioAssessment,"APA-E02-007-Intall, Configure, and Test Discovery Tooling","As a Migration Consultant I want to assist in the installation, configuration, and testing of the main software and infrastructure for Discovery Tooling
+Acceptance Criteria:
+-Key discovery tooling components installed, configured, and tested.",Portfolio,Story,APA-E02-Portfolio Discovery,,,13,PortfolioDiscovery,,To Do,,
+PortfolioAssessment,APA-E02-008-Initiate Discovery Tooling Data Collection,"As a Migration Consultant I want to initiate data collection as per defined roll-out plan so that I can collect data from the targeted systems
+Acceptance Criteria:
+-Data collection started on all targeted systems",Portfolio,Story,APA-E02-Portfolio Discovery,,,34,PortfolioDiscovery,,To Do,,
+PortfolioAssessment,APA-E02-009-Complete Post-Discovery Paty Open Items,"As a Migration Consultant I want to follow-up on any pending item from the Discovery Party so that I can complete all open activities
+Acceptance Criteria:
+-List of pending items validated
+-Pending activities completed",Portfolio,Story,APA-E02-Portfolio Discovery,,,13,PortfolioDiscovery,,To Do,,
+PortfolioAssessment,APA-E03-Portfolio Data Collection,APA-E03-Portfolio Data Collection,Portfolio,Epic,,APA-E03-Portfolio Data Collection,,,PortfolioDataCollection,,To Do,,
+PortfolioAssessment,APA-E03-001-Monitor progress of discovery tooling roll-out,"As a Migration Consultant I want to follow-up on Data Collection to all targeted systems so that I can ensure a minimum of 2 weeks of programmatic data (or equivalent) is collected for all targeted systems
+Acceptance Criteria:
+-Initial Data collection completed
+-2 weeks of data collected from all targeted systems",Portfolio,Story ,APA-E03-Portfolio Data Collection,,,13,PortfolioDataCollection,,To Do,,
+PortfolioAssessment,APA-E03-002-Gather Application Metadata,"As a Migration Consultant I want to work with relevant stakeholders so that I can collect application metadata in order to identify key application attributes for the  application inventory and prioritization
+Acceptance Criteria:
+-Initial Application Metadata collected and documented",Portfolio,Story,APA-E03-Portfolio Data Collection,,,34,PortfolioDataCollection,,To Do,,
+PortfolioAssessment,APA-E03-003-Perfrom Manual Discovery Workshops/Activiites (if applicable),"As a Migration Consultant I want to perform manual discovery on those systems that cannot be targeted by a discovery tool so that I can collect data from these systems ahead of the Preliminary Analysis Workshop
+Acceptance Criteria:
+-Manual Discovery completed",Portfolio,Story ,APA-E03-Portfolio Data Collection,,,34,PortfolioDataCollection,,To Do,,
+PortfolioAssessment,APA-E04-Preliminary Portfolio Analysis,APA-E04-Preliminary Portfolio Analysis,Portfolio,Epic ,,APA-E04-Preliminary Portfolio Analysis,,,PortfolioAnalysis,,To Do,,
+PortfolioAssessment,APA-E04-001-Review Asset & Dependency from Discovery Tooling Output,"As a Migration Consultant I want to review the output from the Discovery Tooling (or equivalent) so that an initial inventory of infrastructure, applications, and dependencies can be established
+Acceptance Criteria:
+-Data output reviewed",Portfolio,Story,APA-E04-Preliminary Portfolio Analysis,,,1,PortfolioAnalysis,,To Do,,
+PortfolioAssessment,APA-E04-002-Directional Business Case,"As a Migration Consultant I want to upload infrastructure data to Migration Evaluator so that a directional Business Case can be produced
+Acceptance Criteria:
+-Data uploaded
+-Business Case report",Portfolio,Story,APA-E04-Preliminary Portfolio Analysis,,,2,PortfolioAnalysis,,To Do,,
+PortfolioAssessment,APA-E04-003-Identify Prioritized Applications,"As a Migration Consultant I want to use the initial application prioritization criteria so that Wave 1 (or pilot appliations) can be identified
+Acceptance Criteria:
+-Between 3 and 5 applications prioritized for migration/modernization",Portfolio,Story,APA-E04-Preliminary Portfolio Analysis,,,2,PortfolioAnalysis,,To Do,,
+PortfolioAssessment,APA-E05-Prioritized Applications Assessment,APA-E05-Prioritized Applications Assessment,Portfolio,Epic,,APA-E05-Prioritized Applications Assessment,,,AppliationAssessment,,To Do,,
+PortfolioAssessment,APA-E05-001-Perform Application Assessment Party,"As a Migration Consultant I want to perform planning for the Application Assessment Party so that the Party can take place
+Acceptance Criteria:
+-Party requirements reviewed
+-Party checklist completed
+-Party agenda validated/updated
+-Party expected outcomes validated/updated",Portfolio,Story,APA-E05-Prioritized Applications Assessment,,,13,AppliationAssessment,,To Do,,
+PortfolioAssessment,APA-E05-002-Confirm Prioritized Applications,"As a Migration Consultant I want to iterate the application prioritization criteria so that the prioritized applications can be confirmed for deep dive
+Acceptance Criteria:
+-Application Prioritization Criteria confirmed",Portfolio,Story,APA-E05-Prioritized Applications Assessment,,,2,AppliationAssessment,,To Do,,
+PortfolioAssessment,"APA-E05-003-Perform Prioritized Applications Deep Dive	","As a Migration Consultant I want to deep dive into the Wave 1 or Pilot Applications so that I can undestand the requeriments for the AWS platform and Migration Strategy
+Acceptance Criteria:
+-Detailed Discovery completed and documented for Wave 1 or Pilot Applications",Portfolio,Story,APA-E05-Prioritized Applications Assessment,,,3,AppliationAssessment,,To Do,,
+PortfolioAssessment,"APA-E05-004-Create first Draft for Prioritized Applications Architecture Design	","As a Migration Consultant I want to define the target AWS Architecture for the Wave 1 or Pilot Applications so that I can test and iterate the landing zone in advance of migration
+Acceptance Criteria:
+-Initial AWS Architecture Design for Wave 1 or Pilot Applications completed and documented",Portfolio,Story,APA-E05-Prioritized Applications Assessment,,,3,AppliationAssessment,,To Do,,
+PortfolioAssessment,APA-E05-005-Create first Draft for Prioritized Applications Migration Strategy,"As a Migration Consultant I want to define the Migrastion Strategy for the Wave 1 or Pilot Applications so that I can plan for migration
+Acceptance Criteria:
+-Initial AWS Migration Strategy  defined and documented
+",Portfolio,Story,APA-E05-Prioritized Applications Assessment,,,3,AppliationAssessment,,To Do,,
+PortfolioAssessment,APA-E05-006-Complete Post-ApplicationAssessment Party Open Items,"As a Migration Consultant I want to follow-up on any pending item from the Appliation Assessment Party so that I can complete all Party activities
+Acceptance Criteria:
+-List of pending items validated
+-Pending activities completed",Portfolio,Story,APA-E05-Prioritized Applications Assessment,,,8,AppliationAssessment,,To Do,,
+PortfolioAssessment,APA-E05-007-Handover intial prioritized applications designs to Migration workstream,"As a Migration Consultant I want to handover the initial designs for the prioritized applications (typically pilot applications) to the Migrations workstream
+Acceptance Criteria:
+-Initial designs accepted by Migration workstream",Portfolio,Story,APA-E05-Prioritized Applications Assessment,,,8,AppliationAssessment,,To Do,,
+PortfolioAssessment,APA-E06-Portfolio Analysis and Migration Planning,APA-E06-Portfolio Analysis and Migration Planning,Portfolio,Epic,,APA-E06-Portfolio Analysis and Migration Planning,,,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E06-001-Plan Portfolio Analysis Party,"As a Migration Consultant I want to perform planning for the Analysis Party so that the Party can take place
+Acceptance Criteria:
+-Party requirements reviewed
+-Party checklist completed
+-Party agenda validated/updated
+-Party expected outcomes validated/updated",Portfolio,Story,APA-E06-Portfolio Analysis and Migration Planning,,,3,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E06-002-Review Asset & Dependency Discovery Tooling Output,"As a Migration Consultant I want to review the output from the Discovery Tooling (or equivalent) and socialize it with the Analysis Party attendees so that relevant attendees undestand how data is presented and organized
+Acceptance Criteria:
+-Data output reviewed and socialized",Portfolio,Story,APA-E06-Portfolio Analysis and Migration Planning,,,2,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E06-003-Iterate Applications metadata,"As a Migration Consultant I want to work with the relevant stakeholders to review the in-scope Application stacks so that the application and associated infrastructure inventory can be iterated
+Acceptance Criteria:
+-Ownership/Operation teams documented
+-Compliance/Regulatory Requirements documented
+-Application(s) business/technical function documented including criticality level
+-Application(s) environment documented
+-Application(s) location documented
+-Application(s) to Infrastructure Mapping validated/updated
+-Application(s) Dependencies documented
+-Shared Infrastructure Services documented",Portfolio,Story,APA-E06-Portfolio Analysis and Migration Planning,,,13,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E06-004-Iterate 7R Disposition Tree,"As a Migration Consultant I want to customize the base 7R Diposition Tree so that it can be refined and used as a guide to determinening migration/modernization strategy for in-scope applications and infrastructure
+Acceptance Criteria:
+-7R disposition tree iterated
+-7R disposition tree flow tested with sample applications
+",Portfolio,Story,APA-E06-Portfolio Analysis and Migration Planning,,,2,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E06-005-Iterate Application Prioritization Criteria,"As a Migration Consultant I want to iterate the initial Application Prioritization Criteria so that in-scope Applications can be ranked in a desired migration/modernization sequence based on slected attributes
+Acceptance Criteria:
+-Key attributes for prioritization identified
+-Weighting of attribute values established
+-Relevance/Importance of selected attributes defined",Portfolio,Story,APA-E06-Portfolio Analysis and Migration Planning,,,2,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E06-006-Draft Wave Plan,"As a Migration Consultant I want to establish an initial migration wave plan based on prioritization criteria and resulting depedendency groups so that subsequent migration planning activities can take place
+Acceptance Criteria:
+-High-level Wave plan skeleton defined
+-Wave 1 Depdendency Groups Identified",Portfolio,Story,APA-E06-Portfolio Analysis and Migration Planning,,,2,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E06-007-Complete Post-Analysis Party Open Items,"As a Migration Consultant I want to follow-up on any pending item from the Analysis Party so that I can complete all Analysis Party activities
+Acceptance Criteria:
+-List of pending items validated
+-Pending activities completed",Portfolio,Story,APA-E06-Portfolio Analysis and Migration Planning,,,8,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E06-008-Baseline Application Prioritization Criteria,"As a Migration Consultant I want to iterate and baseline the Application Prioritization Criteria so that I can use it in combination with data and wave planning to produce a migration wave plan
+Acceptance Criteria:
+-Application Prioritization Criteria Baselined",Portfolio,Story,APA-E06-Portfolio Analysis and Migration Planning,,,5,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E06-009-Baseline 7R Disposition Tree,"As a Migration Consultant I want to iterate and baseline the 7R Disposition Tree so that I can use it to guide the Migration Strategy selection process
+Acceptance Criteria:
+-Baselined 7R Diposition Tree",Portfolio,Story,APA-E06-Portfolio Analysis and Migration Planning,,,5,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E06-010-Baseline Portfolio Asset & Dependency Discovery,"As a Migration Consultant I want to iterate and baseline the output of Discovery Tooling (or equivalent) and Manual Discovery data sources so that an accurate application and associated infrastructure inventory can be confirmed
+Acceptance Criteria:
+-Infrastructure(compute, storage, networks) inventory baselined
+-Application inventory baselined
+-Dependency mapping baselined",Portfolio,Story,APA-E06-Portfolio Analysis and Migration Planning,,,34,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E06-011-Baseline Application metadata,"As a Migration Consultant I want to iterate and baseline the Appliation matadata so that I can document all key application attributes and mapped infrastructure
+Acceptance Criteria:
+-Application metadata baselined",Portfolio,Story,APA-E06-Portfolio Analysis and Migration Planning,,,34,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E06-012-Baseline Dependency Groups and Wave Plan,"As a Migration Consultant I want to iterate and baseline application Depdendency Groups and Migration Wave Plan so that I can establish a high-fidelity Migration Wave Plan for the project inclusive of compelling events, migration schedule, and resource requirements
+Acceptance Criteria:
+-Dependency Groups baselined
+-Wave Plan baselined
+",Portfolio,Story,APA-E06-Portfolio Analysis and Migration Planning,,,34,PortfolioIterationPlanning,,To Do,,
+PortfolioAssessment,APA-E07-Portfolio Continuous Assessment and Improvement (post-mobilize engagements only),APA-E07-Portfolio Continuous Assessment and Improvement(post-mobilize engagements only),Portfolio,Epic,,APA-E07-Portfolio Continuous Assessment and Improvement(post-mobilize engagements only),,,PortfolioContinuousAssessment,,To Do,,
+PortfolioAssessment,APA-E07-001-Wave (n) Application Assessment,"As a Migration Consultant I want to perform a detailed assessment including target AWS architecture design and migration strategy for the applications in Wave n
+Accpetance Criteria:
+-Application Assessment Party for Wave n completed
+-AWS Application Architecture Design for Wave n completed
+-Migration Strategy for Wave n validated",Portfolio,Story,APA-E07-Portfolio Continuous Assessment and Improvement(post-mobilize engagements only),,,34,PortfolioContinuousAssessment,,To Do,,

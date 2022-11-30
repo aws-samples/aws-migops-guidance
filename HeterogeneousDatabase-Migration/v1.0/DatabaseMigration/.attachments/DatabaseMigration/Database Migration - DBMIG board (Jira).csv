@@ -1,0 +1,434 @@
+Summary,Issue key,Issue id,Parent id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Relates),Custom field (Development),Custom field (Epic Colour),Custom field (Epic Link),Custom field (Epic Name),Custom field (Epic Status),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (External issue ID),Custom field (Issue color),Custom field (Rank),Custom field (Request Type),Custom field (Request participants),Satisfaction rating,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field ([CHART] Date of First Response),Parent,Parent summary,Status Category
+Project Governance,DBMIG-1,28691,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:07 PM,05/Oct/21 8:26 AM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager, I want to track key list of activities related to project set, management and execution so that the Engagement objectives and outcomes are met.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,DBMIG-46,{},ghx-label-12,,Project Governance,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qt3:,,,,,,,,,,,,,To Do
+Environment Access,DBMIG-2,28692,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:09 PM,24/Aug/21 5:17 PM,06/Oct/21 5:14 AM,,,0,"As a Delivery Team, I want to track user stories related to user, environment, DB and software access in this epic",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-11,,Environment Access,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qtb:,,,,,,,,,,,,,To Do
+Database Discovery and Assessment,DBMIG-3,28693,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:10 PM,25/Aug/21 7:58 AM,29/Sep/21 1:56 PM,,,0,This epic captures DB discovery and assessment related user stories and tasks,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-5,,Database Discovery and Assessment,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qtj:,,,,,,,,,,,,,To Do
+Architecture Design and Decisions,DBMIG-4,28694,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:11 PM,29/Sep/21 1:56 PM,29/Sep/21 1:55 PM,,,0,This EPIC comprises of any common solution creation for key DB features used across 1 or more DBs which are in scope of the migration,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-8,,Architecture Design and Decisions,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qtr:,,,,,,,,,,,,,To Do
+Estimations,DBMIG-5,28695,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:12 PM,29/Sep/21 1:58 PM,29/Sep/21 1:58 PM,,,0,This epic captures DB estimations/revised estimations post the discovery and assessment,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-14,,Estimations,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qtz:,,,,,,,,,,,,,To Do
+Datatype Alignment,DBMIG-6,28696,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:13 PM,29/Sep/21 2:06 PM,29/Sep/21 2:14 PM,,,0,This epic captures DB data type mapping recommendations and decisions used for the database migration.,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-6,,Datatype Alignment,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qu7:,,,,,,,,,,,,,To Do
+DB Schema Creation and Conversion,DBMIG-7,28697,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:13 PM,29/Sep/21 2:17 PM,29/Sep/21 2:15 PM,,,0,This EPIC comprises of stories/tasks related to schema conversion.,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-5,,DB Schema Creation and Conversion,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00quf:,,,,,,,,,,,,,To Do
+Code Conversion,DBMIG-8,28698,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:14 PM,29/Sep/21 2:32 PM,29/Sep/21 2:55 PM,,,0,This epic comprises of stories/tasks related to dat storage and code objects manual conversions.,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-3,,Code Conversion,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qun:,,,,,,,,,,,,,To Do
+Application SQL Conversion,DBMIG-9,28699,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:15 PM,29/Sep/21 2:50 PM,29/Sep/21 2:54 PM,,,0,This epic comprises of user stories/tasks related to Application SQL Queries conversion,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-12,,Application SQL Conversion,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00quv:,,,,,,,,,,,,,To Do
+Sanity Test - Code Objects,DBMIG-10,28700,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:16 PM,29/Sep/21 2:56 PM,29/Sep/21 2:59 PM,,,0,This EPIC comprises of stories/tasks related to sanity test for the converted code objects.,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-5,,Sanity Test - Code Objects,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qv3:,,,,,,,,,,,,,To Do
+Functional Test - Code Objects,DBMIG-11,28701,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:17 PM,29/Sep/21 2:59 PM,29/Sep/21 2:58 PM,,,0,This EPIC comprises of stories/tasks related to functional test for the converted code objects.,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-9,,Functional Test - Code Objects,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qvb:,,,,,,,,,,,,,To Do
+Application SQL Sanity Test,DBMIG-12,28702,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:17 PM,04/Oct/21 6:10 AM,04/Oct/21 9:29 AM,,,0,"As a migration team, I want to validate/test the converted Application SQL queries with mock/dummy data so that I can perform the sanity test for the converted queries.
+
+
+
+Acceptance Criteria:
+
+# Validate converted query compiles without error with sample data/mock data.
+# Peer Review the converted query.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-3,,Application SQL Sanity Test,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qvj:,,,,,,,,,,,,,To Do
+Application SQL Integration,DBMIG-13,28703,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:17 PM,29/Sep/21 3:05 PM,04/Oct/21 9:29 AM,,,0,"As an application team which interacts with the DB in scope for the migration, I want to integrate the converted Application SQL Queries to the application DB Layer to ensure the application connect and performs the expected Db functionality.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-8,,Application SQL Integration,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qvr:,,,,,,,,,,,,,To Do
+Data Migration,DBMIG-14,28704,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:18 PM,29/Sep/21 3:09 PM,29/Sep/21 3:08 PM,,,0,This epic comprises of stories/tasks related to Database Migration for the in-scope database in migration,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-10,,Data Migration,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qvz:,,,,,,,,,,,,,To Do
+Database Delivery Kit,DBMIG-15,28705,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:18 PM,30/Sep/21 6:28 AM,30/Sep/21 6:27 AM,,,0,This epic comprises of stories/tasks related to handover and delivery kits for in scope databases,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-6,,Database Delivery Kit,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qw7:,,,,,,,,,,,,,To Do
+Application Testing,DBMIG-16,28706,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:19 PM,30/Sep/21 9:24 AM,04/Oct/21 9:30 AM,,,0,"As an Application Owner, I want to perform Application testing against the target(converted) database so that the Application functional validation can be performed.
+
+Tip: Add any application testing story/task in this epic",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-13,,Application Testing,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qwf:,,,,,,,,,,,,,To Do
+Performance Test,DBMIG-17,28707,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:19 PM,04/Oct/21 9:31 AM,05/Oct/21 4:39 AM,,,0,This epic comprises of Performance test related stories/tasks,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-2,,Performance Test,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qwn:,,,,,,,,,,,,,To Do
+AWS Support,DBMIG-18,28708,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:20 PM,05/Oct/21 8:23 AM,05/Oct/21 8:09 AM,,,0,This epic comprises of stories/tasks related to testing support from AWS,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,DBMIG-22,,,{},ghx-label-6,,AWS Support,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qwv:,,,,,,,,,,,,,To Do
+Demo,DBMIG-19,28709,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:20 PM,05/Oct/21 8:15 AM,05/Oct/21 8:13 AM,,,0,"As a project/migration team, I want to demonstrate sprint deliverables / features implemented during the course of the migration so that customer alignment, buy in and MVPs are discussed, agreed and planned accordingly in the backlog and milestones accordingly.
+
+
+
+This EIPC comprises of stories/tasks for Demos performed throughout the project.
+
+
+
+Acceptance Criteria:
+
+# Demo feature/implementation/sprint outcome
+# Buy-in decision from customer
+# Plan next steps (revise backlog/plan or milestone delivery)",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-7,,Demo,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qx3:,,,,,,,,,,,,,To Do
+Additional Features,DBMIG-20,28710,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:21 PM,05/Oct/21 8:17 AM,05/Oct/21 8:15 AM,,,0,"As a migration team, I want to identify and solution any key Additional features such as DB monitoring, security etc. so that the implementation for these features can be planned during the migration.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-13,,Additional Features,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qxb:,,,,,,,,,,,,,To Do
+Enablement and Training,DBMIG-21,28711,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:28 PM,05/Oct/21 8:22 AM,05/Oct/21 8:21 AM,,,0,"As a project team, I want to identify the training needs of the Customer so that necessary training plans can be planned.
+
+Eg: 
+
+* Aurora Immersion Days (can be conducted in collaboration with AWS DB SA Team)
+* 2-3 days of topic trainings such as Postgres (How-to)
+
+Acceptance Criteria:
+
+# Identify Customer training needs.
+# Plan trainers, training duration, dates and audience.
+# Customer feedback post training to access if expected outcomes were met.
+
+
+
+
+
+Tip: Add specific stories/tasks for training and enablement needs identified.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-8,,Enablement and Training,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qxj:,,,,,,,,,,,,,To Do
+Cut-Over Support,DBMIG-22,28712,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:28 PM,05/Oct/21 8:23 AM,05/Oct/21 8:22 AM,,,0,This epic comprises of stories/tasks for Cut-over Support from AWS,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-11,,Cut-Over Support,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qxr:,,,,,,,,,,,,,To Do
+Internal Kick off,DBMIG-23,28713,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:33 PM,24/Aug/21 5:20 PM,04/Oct/21 5:57 AM,,,0,As an Engagement Manager I want to perform a number of critical activities before we meet the customer so that the internal teams are aligned on the Engagement scope and prepared for the customer kickoff.,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qxz:,,,,,,,,,,,,,To Do
+Sales to Delivery Transition,DBMIG-27,28717,28713,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:34 PM,24/Aug/21 3:54 PM,04/Oct/21 5:57 AM,,,0,"As a Delivery team I want to meet the Sales team so that they have access and visibility to all customer related material and artefacts.
+
+
+
+Acceptance Criteria:
+
+# The Sales Team has provided all background material and artefacts (business cases, prototypes, outputs of the Cloud Adoption Framework (CAF), and Working Backwards documents) to the engagement delivery team.
+# Delivery Team understands why the customer is making the investment with AWS and what outcomes they are driving towards.
+# Delivery Team understands customer stakeholders and existing stakeholder management strategies.
+# Review Deal Tracker Document and SoW
+# Delivery Team is added to existing communication channels with the wider AWS sales team including Chime and/or email distribution lists.
+# Set up time for Delivery Team’s introduced to the Customer by the Sales Team.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qyv:,,,,,,,,,,,28713,Internal Kick off,To Do
+Project Embark,DBMIG-28,28718,28713,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:35 PM,24/Aug/21 3:57 PM,06/Oct/21 5:14 AM,,,0,"As and Engagement Manager/Migration Lead I want to create an embark plan/document so that there is a consistent, repeatable on-boarding process for team members and to add relevant information(s) on documentation, training, and steps to on board for all new team members ",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qz3:,,,,,,,,,,,28713,Internal Kick off,To Do
+Partner On-boarding,DBMIG-29,28719,28713,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:35 PM,24/Aug/21 4:05 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager I want to on-board the partner resources to the project so that capacity planning is met as required for the project execution
+
+Acceptance Criteria:
+
+* Complete [ProServe Subcontractor Security |https://w.amazon.com/bin/view/AWS/Teams/Proserve/SRC/EngagementSecurity/SubcontractorSecurityPackage/]assessment
+* Partner Team is educated about the engagement governance structure (people, process, tools, communication, deliverable reviews, and security guidelines) 
+* AWS team leads assess skill fit and capabilities of partner resources 
+* Partner team has access to PSA portal for time card entry, expenses, and forecasting 
+* Initial engagement forecast established (resource planner and financial reporting) 
+* Escalation paths identified for the project and for internal partner team escalations
+* Establish financial reviews for regular cadence of health checks 
+* Expectations for timecard and expense management are defined",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qzb:,,,,,,,,,,,28713,Internal Kick off,To Do
+Resource On-boarding and Management,DBMIG-30,28720,28713,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:36 PM,24/Aug/21 4:15 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager I want to create and map all Resource Request(s) to consultants so that the team is staffed to meet the engagement deliverables.
+
+Acceptance Criteria:
+
+* Right team assigned for the work to be done
+** Confirm resource mix (skills, tenure at AWS, previous experience with similar work) 
+** Reviewing open resource requests and working with resource management to identify the right people to fill open roles 
+* AWS Consultants and Partner (if applicable) assignments are in SalesForce for the full duration required to support the project
+* Identify team leads and 2 in the box alignment between AWS team and customer team
+* Arrange people into teams / work streams
+* Confirm assignments match the SOW (rates and discounts) 
+* Confirm correct billing / invoicing information is in place so that the customer's first bill goes to the right person",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qzj:,,,,,,,,,,,28713,Internal Kick off,To Do
+Pre-LRP,DBMIG-31,28721,28713,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:36 PM,24/Aug/21 4:18 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager I want to meet with Delivery Team to align on engagement goals and outcomes so that team is equipped and can work collectively to plan the implementation roadmap during LRP.
+
+Acceptance Criteria:
+
+* The team is internally aligned on expected outcomes and has an overall plan to support the customer facing LRP
+** Roadmap drafted
+** Working Backwards / Alignment Outcome Canvas drafted
+** RAID log drafted 
+** High level dependencies are identified 
+** Decisions made or future decisions where customer input is required identified 
+* Team Norms Established
+
+ ",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qzr:,,,,,,,,,,,28713,Internal Kick off,To Do
+Engagement Tooling,DBMIG-24,28714,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:33 PM,24/Aug/21 4:22 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager, I want to get an agreement on the tooling so that team can collaborate effectively throughout the engagement. 
+
+Acceptance Criteria:
+
+* Agreement on tools that the team will use during engagement including backlog management, documentation, communication (slack/chime/email/etc.), code repository, dev Ops tools, drawing / diagramming tools, etc.
+* Tools to be established and available for team use in time for Launch Ready Planning
+* Communication channels including Slack, Chime, Work Docs, Quip, and customer facing tools are established with agreed upon uses 
+
+(P.S Customer Tooling can be confirmed during engagement/kickoff)
+
+Ref: 
+
+* [ProServe Engagement Tooling Wiki|https://w.amazon.com/bin/view/AWS/Teams/Proserve/Delivery/Tooling/]
+* [Communication Channels (internal and customer facing) |https://w.amazon.com/bin/view/AWS/Teams/Proserve/Delivery/Communications/]",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qy7:,,,,,,,,,,,,,To Do
+Team Governance,DBMIG-25,28715,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:33 PM,24/Aug/21 4:24 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager/Migration Lead, I want to establish team governance and  practices/documentations/cadences to be utilised during the course of the engagement so that there is transparency and awareness for the stakeholders and team on progress/risks made towards the business outcomes ",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qyf:,,,,,,,,,,,,,To Do
+Methodology and EDF Walkthrough,DBMIG-32,28722,28715,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:36 PM,24/Aug/21 4:36 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager, I want to work with the customer Project Manager to understand the program execution methodology followed by the customer and present an overview of the Engagement Delivery Framework so that there is an alignment on the methodology which the engagement will follow.
+
+Acceptance Criteria:
+
+* EDF Overview presentation to Customer teams
+* Align on Project management Tools/Agile Project management Tools to be utilised for Backlog and content",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qzz:,,,,,,,,,,,28715,Team Governance,To Do
+Set up Meeting Cadences,DBMIG-33,28723,28715,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:37 PM,24/Aug/21 4:40 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager, I want to set up the meeting cadences to be followed internally and externally so that AWS, partner teams and  customer teams can collaborate effectively.
+
+Guidance:
+
+* Daily stand up (Internal) 
+* Daily stand up (External) 
+* Increment/Sprint Review(Demo)
+* Increment/Sprint Planning
+* Replenishment
+* Backlog Grooming 
+* Retrospective
+* Dive Deep sessions with customer teams (as needed)
+* Steer-co meeting with stakeholders",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r07:,,,,,,,,,,,28715,Team Governance,To Do
+Status Report,DBMIG-34,28724,28715,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:37 PM,24/Aug/21 4:42 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager I want to gather information(s) required by customer for a weekly status report on progress, risk, issues and financials so that the report shared to stakeholder and team captures all the relevant and required information.
+
+
+
+Guidance: Share a weekly status report",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r0f:,,,,,,,,,,,28715,Team Governance,To Do
+Team Norms,DBMIG-35,28725,28715,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:37 PM,24/Aug/21 5:01 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager I want to set up Team Norms so that it can be a reference or a guide for any team member in the engagement. 
+
+
+
+Acceptance Criteria:
+
+* Project governance structure in place
+* Team structure with teams leads and team members identified for AWS, customer, and partner 
+* Buyer / Sellers identified 
+* Events for the team scheduled
+* Regular cadence of Stakeholder meetings scheduled
+* Escalation path defined
+* Status Reporting process and templates defined
+* Team norms, guard rails for team, established",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r0n:,,,,,,,,,,,28715,Team Governance,To Do
+Escalation Matrix,DBMIG-36,28726,28715,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:37 PM,24/Aug/21 5:07 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager, I want to document the Escalation Matrix for AWS, Partner and Customer Teams so that the escalation paths are defines and key stakeholders are identified and informed
+
+Acceptance Criteria:
+
+* Gather stakeholders and roles for AWS, Partner and Customer Teams
+* Define the PoC and Escalation Matrix for AWS, Partner and Customer Teams
+* Share the Escalation Matrix to the project and Customer team and keep it updated.
+
+Ref: <<_Add the confluence/link to the stakeholder and escalation matrix document>>_",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r0v:,,,,,,,,,,,28715,Team Governance,To Do
+Stakeholders,DBMIG-37,28727,28715,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:37 PM,24/Aug/21 5:07 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager I want to identify all key stakeholders from AWS, Partner and Customer teams so that they can informed and engaged as defined in the Escalation Matrix.
+
+
+
+Acceptance Criteria:
+
+* Add the link to the Stakeholders List/Document",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,DBMIG-36,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r13:,,,,,,,,,,,28715,Team Governance,To Do
+LRP / Customer Kick off,DBMIG-26,28716,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,23/Aug/21 3:33 PM,24/Aug/21 5:12 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager, I want to facilitate a Launch Ready Plan(LRP) so that the team is aligned on expected outcomes and has a plan to achieve them.
+
+Acceptance Criteria:
+
+* Outcome of the LRP/Program Planning/Wave Planning are immediately published to a shared location.
+* Publish a Roadmap in the customer portal or shared location.
+* Backlog created and uploaded or updated in backlog management tool.
+* [Alignment Outcome Canvas aka Alignment Reference|https://w.amazon.com/bin/view/AWS/Teams/Proserve/CustomerBusinessOutcomes/]
+ template or [PR/FAQ|https://workingbackwards.corp.amazon.com/elective-training/drafting-press-release/] published or updated by the team after the LRP (if applicable)
+* [Business Outcomes|https://w.amazon.com/bin/view/AWS/Teams/Proserve/CustomerBusinessOutcomes/]
+ are documented and published in a shared location.
+* Issues & Risks are added to the RAID log (Risks, Assumptions, Issues, and Dependencies).
+* Decisions Log is created to track any key decisions made during the engagement execution",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00qyn:,,,,,,,,,,,,,To Do
+Source Database Access,DBMIG-38,28728,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,24/Aug/21 5:14 PM,24/Aug/21 5:43 PM,29/Sep/21 12:49 PM,,,0,"As the migration team, I want an access to the source database which requires migration so that key activities of migration such as assessment, estimations and conversion can begin
+
+
+
+Tip: Repeat this story for each Database in scope for migration",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r1b:,,,,,,,,,,,,,To Do
+Target Database Access,DBMIG-39,28729,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,24/Aug/21 5:14 PM,24/Aug/21 5:44 PM,29/Sep/21 12:49 PM,,,0,"As the migration team, I want an access to the target database so that the target database can be designed and tested.
+
+
+
+Tip: Repeat this story for each Database in scope for migration",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r1j:,,,,,,,,,,,,,To Do
+Customer Environment Access (Active Directory/Workspace/Virtual Machine/ Laptop),DBMIG-40,28730,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,24/Aug/21 5:14 PM,24/Aug/21 5:47 PM,29/Sep/21 12:49 PM,,,0,"As the migration project team member, I want an access to the customer environment so that I can be part of customer’s Active Directory so that I am enabled to perform the migrations tasks and get access to required software, common spaces, servers and  database.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r1r:,,,,,,,,,,,,,To Do
+Customer's AWS Console Access (Development Environment),DBMIG-41,28731,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,24/Aug/21 5:14 PM,25/Aug/21 7:55 AM,29/Sep/21 12:49 PM,,,0,"As the migration team member, I want an access to the customer’s AWS account(Dev/lower environment) so that I have access to AWS console to perform key activities for migration using required AWS services _<<eg: data migration using AWS Data Migration Service>>_
+
+
+
+Tip: Repeat this story for each Database in scope for migration",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r1z:,,,,,,,,,,,,,To Do
+Database X - Deep Dive Discovery Session,DBMIG-47,28737,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,25/Aug/21 7:58 AM,29/Sep/21 12:51 PM,29/Sep/21 1:01 PM,,,0,"As a Migration Lead, I want to participate in a deep dive session with the customer SME and Architects so that I can understand the existing application infrastructure, dependencies, functionalities and gather any additional features which will require solutions.
+
+Acceptance Criteria:
+
+* Source Database architecture and design documents
+* Capture dependant systems and workflows
+* Determine any pre-requisites for the migrations
+* Determine any NFRs and additional features which is required as a part of the solution such as encryption, compression, performance monitoring etc 
+
+
+
+Tip: Repeat this story for all in scope Databases",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r23:,,,,,,,,,,,,,To Do
+Software Installation in customer space,DBMIG-42,28732,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,24/Aug/21 5:15 PM,24/Aug/21 5:52 PM,29/Sep/21 12:50 PM,,,0,"As the migration team, I want to have the softwares installed/have admin rights to install softwares in my workspace _(eg: SCT, ora2pg, SSMA etc)_ so that key activities of migration such as assessment and conversion 
+
+
+
+Acceptance Criteria:
+
+* Each team member has the required tools and softwares provisioned.
+** _<<Add List of tool and software>_",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r27:,,,,,,,,,,,,,To Do
+Version Control Access,DBMIG-43,28733,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,24/Aug/21 5:17 PM,24/Aug/21 5:55 PM,29/Sep/21 12:50 PM,,,0,"As the migration team, I want an access to the customer’s version control repository/common space so that the converted code and scripts can be checked-in for customer review, integration and test.
+
+
+
+Acceptance Criteria:
+
+* All team members have access to the version control/common space provided by customer
+* Repository details available <<_can be per DB>>_
+* Folder and Files naming conventions agreed and followed",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r2f:,,,,,,,,,,,,,To Do
+Backlog and Content (shared space) access,DBMIG-44,28734,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,24/Aug/21 5:17 PM,24/Aug/21 5:56 PM,29/Sep/21 12:50 PM,,,0,"As the migration team, I want an access to the backlog and content/common space so that a common collaboration space is created and maintained",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r2n:,,,,,,,,,,,,,To Do
+Security and Compliance,DBMIG-45,28735,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,24/Aug/21 5:34 PM,24/Aug/21 5:41 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager, I want to ensure all the security checks are performed in a timely manner so that the Engagement is compliant and passes all the security assessments
+
+
+
+Acceptance Criteria:
+
+* [+Engagement Security Assessment+|https://w.amazon.com/bin/view/AWS/Teams/Proserve/SRC/EngagementSecurity/ESAP/EngagementSecurityAssessmentGuide/] conducted
+* [ProServe Subcontractor Security |https://w.amazon.com/bin/view/AWS/Teams/Proserve/SRC/EngagementSecurity/SubcontractorSecurityPackage/]conducted
+* Partner briefed on AWS Security Guidelines
+* Partner security assessment complete
+* Engagement Change Management guidelines documented 
+* Team members have been briefed on [AWS Engagement Security Guidelines|https://w.amazon.com/bin/view/AWS/Teams/Proserve/SRC/EngagementSecurity/EngagementSecurityKickOff/]
+* Perform Code and technical artefacts [Deliverable Security Review|https://w.amazon.com/bin/view/AWS/Teams/Proserve/SRC/EngagementSecurity/deliverableSecurityReviews/], as defined by ProServe Engagement Security, prior to delivery to a customer.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r2v:,,,,,,,,,,,,,To Do
+Sign Off,DBMIG-46,28736,,Epic,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,24/Aug/21 5:58 PM,05/Oct/21 8:26 AM,05/Oct/21 8:26 AM,,,0,"As an Engagement Manager, I want to document Customer Sign off after the database test and cut-over (as applicable), so that the outcome can be mapped against the business objectives which were planned in Launch Ready Plan/Planning. 
+
+
+
+Tip: This will also be part of Project Closure",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},ghx-label-1,,Sign Off,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r33:,,,,,,,,,,,,,To Do
+Project Status Reporting,DBMIG-48,28742,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,15/Sep/21 10:13 AM,16/Sep/21 6:24 AM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager I want to prepare and present a weekly status report so that the weekly progress, risks, dependencies, issues, decisions and financials are shared on a regular basis with all stakeholders.
+
+
+
+Acceptance Criteria:
+
+Prior to sharing the first progress report, review the details, frequency and sections/details shared with customer and customise the reporting per the business and stakeholder needs and align.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r47:,,,,,,,,,,,,,To Do
+Project Closure,DBMIG-49,28743,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,15/Sep/21 10:14 AM,29/Sep/21 12:47 PM,06/Oct/21 5:14 AM,,,0,"As an Engagement Manager I want to perform the project closure activities at the engagement completion so that there is an alignment, handover and sign off of the engagement.
+
+Acceptance Criteria:
+
+# Gather an acceptance of deliverables capturing if the SoW objectives and outcomes were met.
+# All Consultants Timecards are submitted and approved in SFDC. All billable and AI are closed.
+# Release resources and close assignments.
+# Capture Feedback on Consultant’s performances.
+# Perform CSAT Survey.
+# Return Customer Assets(laptop etc.) if applicable.
+# Conduct retrospective, team debrief and lessons learnt.
+# Close communications channels(if applicable).
+# Confirm transition, KT and post production ownerships
+# Notify Operations Manager of Project completion and closure of the project in SFDC.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r4f:,,,,,,,,,,,,,To Do
+Database key features architecture/design,DBMIG-50,28745,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 1:00 PM,29/Sep/21 1:07 PM,29/Sep/21 2:04 PM,,,0,"As a migration team, I want to design solutions to key DB features required for the migration so that there is a standardised and repeatable solution created to accelerate the migration across all the DBs in the customer environment which has the same use case/feature.
+
+<<Few Examples of key features are as below:
+
+|Advanced Security, Compression & Encryption|
+|Password Profiles & Database Authentication using IAM/AD|
+|Auditing of Database Activities|
+|Monitoring using Performance Insights, CW, Database Notifications, Enhanced Monitoring|
+|Paritioning implementation|
+|External Table|
+|Materialized Views and Log|
+|Database Jobs Scheduling - AWS Batch / EC2 Cron / Lambda|
+|Heterogenous DB Link Support ( eg: Oracle - Aurora PostgreSQL)|
+
+>>
+
+
+
+Tip: Create a story for each key feature where PoC and architecture/design is required in this EPIC. ",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r4v:,,,,,,,,,,,,,To Do
+Database X Estimations,DBMIG-51,28746,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 1:58 PM,29/Sep/21 2:04 PM,29/Sep/21 2:14 PM,,,0,"As a migration team I want to create and share an estimation/revised estimations after conducting the database dive deep and discovery session and re-assessment of the database so that the estimations can be reviewed with the customer teams and an alignment is reached between the customer and AWS teams on the scope and timelines of the delivery.
+
+Acceptance Criteria:
+
+# Create Estimation details including the in-scope/out-scope items, assumptions and deliverables.
+# Review the estimations with the customer team
+# Agree on the estimations, scope and timelines.
+
+
+
+Tip: Create a scope and Estimation plan for each database (comprising of all its schemas which are in scope for the migration)  ",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r53:,,,,,,,,,,,,,To Do
+Datatype Mapping,DBMIG-52,28747,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 2:06 PM,29/Sep/21 2:39 PM,04/Oct/21 5:58 AM,,,0,"As a migration team, I want to review the source database datatypes and recommend, review and get customer agreement for equivalent datatype mapping for the target database so that the target database has all the datatype mappings done correctly and any mismatches can be identified and an alternative datatype agreed on.
+
+
+
+Acceptance criteria:
+
+# Create a list of source database datatypes used in the database.
+# Identify equivalent/compatible datatype for the target database.
+# Review the datatype mapping with the customer to agree on the datatypes for the implementation.
+
+
+
+Tip: Repeat this for each schema, each database (or as required) which is part of the Migration. ",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,DBMIG-53,,,{},,DBMIG-6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r5b:,,,,,,,,,,,,,To Do
+"Database X, schema a: Schema creation and conversion",DBMIG-53,28748,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 2:17 PM,29/Sep/21 3:11 PM,29/Sep/21 3:27 PM,,,0,"As a migration team, I want to run Schema Conversion Tool (SCT) or any other equivalent tool (eg: SSMA) which is decided to be used by the project team for schema creation and conversion so that the equivalent of the source schema is available in the target database which can be utilised for further code object migration. 
+
+
+
+Note: This makes heterogeneous database migrations predictable by automatically converting the source database schema and a majority of the database code objects, including views, stored procedures, and functions, to a format compatible with the target database.
+
+
+
+Acceptance criteria:
+
+# Run SCT/SSMA/any agreed upon equivalent tool for schema conversion and creation.
+# Review SCT report to identify and plan the completion of partially converted/failed objects
+
+
+
+Tip: Repeat and create a similar story for each schema of each database.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,DBMIG-54,DBMIG-59,,{},,DBMIG-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r5j:,,,,,,,,,,,,,To Do
+"Database X, Schema a: Conversion",DBMIG-54,28749,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 2:32 PM,29/Sep/21 3:03 PM,04/Oct/21 6:02 AM,,,0,"As a migration team, after executing SCT/an equivalent conversion tool, I want to assess and convert the data storage objects and code objects which were not converted/partially converted by the conversion tool so that the schema is migrated 100% to the target DB engine.
+
+Acceptance criteria:
+
+# Create a list of data storage and code objects which were 100% converted by the conversion tool.
+# Create a list of data storage and code objects which were  *NOT* 100% converted by the conversion tool and requires manual conversion.
+# Convert the objects identified in Step 2
+
+
+
+Tip: Repeat this story for each schema of each database",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,DBMIG-57,DBMIG-58,,{},,DBMIG-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r5r:,,,,,,,,,,,,,To Do
+Database X Application SQL Queries Scope and Estimations,DBMIG-55,28750,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 2:42 PM,29/Sep/21 2:45 PM,29/Sep/21 2:51 PM,,,0,"As a migration team, I want to work with the customer team to identify and get the list of Application SQL Queries (embedded in the application), so that I can scope and estimate the conversion efforts.
+
+Acceptance Criteria:
+
+# Create/Maintain a list of identified Application SQL Queries in scope for conversion.
+# Evaluate conversion efforts, run Schema Conversion Tool/any agreed equivalent tool to identify if the queries can be partially/fully converted to the target environment.
+# Identify manual efforts required. Combine effort from step 2 and 3 to derive and plan the timelines.
+
+
+
+Tip: Repeat this for each database",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r5z:,,,,,,,,,,,,,To Do
+Database X Application SQL Queries Conversion,DBMIG-56,28751,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 2:50 PM,29/Sep/21 3:05 PM,29/Sep/21 2:51 PM,,,0,"As a migration team, I want to convert the scoped Application SQL queries to be functional with the target DB engine so that the queries when integrated with the application work as expected.
+
+Acceptance Criteria:
+
+# Provide converted queries post sanity test to the customer team for integration and test.
+
+Tip: Repeat this for each database",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,DBMIG-13,,,{},,DBMIG-9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r67:,,,,,,,,,,,,,To Do
+"Database X, Schema a: Sanity Test",DBMIG-57,28752,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 2:56 PM,29/Sep/21 2:58 PM,29/Sep/21 2:58 PM,,,0,"As a migration team, I want to perform Sanity test of all the converted objects by providing sample expected data so that the converted objects compile without errors/warnings.
+
+
+
+Tip: repeat this story for each schema of each database which is part of the migration.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r6f:,,,,,,,,,,,,,To Do
+"Database X, Schema a: Functional Test",DBMIG-58,28753,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 2:59 PM,29/Sep/21 3:03 PM,29/Sep/21 2:59 PM,,,0,"As a migration team I want to perform functional test on the converted objects if the customer has provided functional test case or data so that I can ensure more functional quality checks in the lower environment.
+
+
+
+Acceptance criteria:
+
+# If customer has provided functional test case/data, execute the test case/data on the converted code and match the outputs to the expected outputs.
+# Share the test outcomes/outputs to the customer.
+# Identify and fix any issues identified as part of the testing.
+
+
+
+Tip: Repeat this story for each schema of each database which is part of the migration.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r6n:,,,,,,,,,,,,,To Do
+"Database X, Schema a: Data Migration",DBMIG-59,28754,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 3:09 PM,29/Sep/21 3:16 PM,04/Oct/21 9:30 AM,,,0,"As a migration team, I want to migrate data from the source database to the target database so that the target database has the required data for testing and cutover.
+
+Tip: Repeat this for each schema and each database which is part of the migration",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r6v:,,,,,,,,,,,,,To Do
+Identify data migration needs - Full Load / Full Load and CDC,DBMIG-60,28755,28754,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 3:12 PM,29/Sep/21 3:12 PM,06/Oct/21 5:14 AM,,,0,,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r73:,,,,,,,,,,,28754,"Database X, Schema a: Data Migration",To Do
+Create Cloud Formation Template and test the data migration using AWS Database Migration Service (DMS) or any other agreed upon data migration tool.,DBMIG-61,28756,28754,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 3:13 PM,29/Sep/21 3:13 PM,06/Oct/21 5:14 AM,,,0,,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r7b:,,,,,,,,,,,28754,"Database X, Schema a: Data Migration",To Do
+Validate CFT with CFNag Tool (Follow Security Guideline and Best Practise),DBMIG-62,28757,28754,Sub-task,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,29/Sep/21 3:14 PM,29/Sep/21 3:14 PM,29/Sep/21 3:22 PM,,,0,,,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r7j:,,,,,,,,,,,28754,"Database X, Schema a: Data Migration",To Do
+Database X Delivery Kit,DBMIG-63,28758,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,30/Sep/21 6:28 AM,30/Sep/21 6:43 AM,05/Oct/21 8:26 AM,,,0,"As a migration team, I want to create a delivery kit comprising of database and data migration details, steps to execute and scripts so that the customer can use the delivery kit to create the target database which will be used for testing and the same delivery kit mechanism can be followed to deploy in higher environments.
+
+
+
+Acceptance Criteria:
+
+# Delivery of Database delivery kit comprising of pre-requisites and deployment scripts.
+# Delivery of Data Migration delivery kit comprising of Cloud Formation Template(s), run-book, object list and scripts.
+# Demo with customer DBA team on how-to use the delivery kit.
+
+
+
+Tip: Repeat this story for each DB in scope of migration.",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r7r:,,,,,,,,,,,,,To Do
+Database X: Performance  Test,DBMIG-64,28759,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,04/Oct/21 9:31 AM,04/Oct/21 9:33 AM,05/Oct/21 4:39 AM,,,0,"As an Application Team, I want to conduct performance test in a prod like environment so that I can evaluate the performance of the migrated database against the source database and ensure the performance is at par and in acceptable range.
+
+Tip: Repeat this for each database in scope for migration",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r7z:,,,,,,,,,,,,,To Do
+Database X: AWS QA Support,DBMIG-65,28760,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,05/Oct/21 8:00 AM,05/Oct/21 8:08 AM,05/Oct/21 8:08 AM,,,0,"As a migration team, I want to fix and resolve any bugs identified on the migrated database code and objects so that the migrated database meets the expected functionality and meets the quality check.
+
+
+
+Tip: Repeat this story for all databases in scope for migration",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r87:,,,,,,,,,,,,,To Do
+Database X: AWS Performance Support,DBMIG-66,28761,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,05/Oct/21 8:01 AM,05/Oct/21 8:08 AM,05/Oct/21 8:07 AM,,,0,"As a migration team, I want to tune and optimise any bottleneck or slow performing queries so that the overall performance of  the migrated database is at par or better than the source database performance.
+
+Acceptance Criteria:
+
+# Identify or gather top 10 or slow performing queries to tune.
+# Gather performance benchmark.
+# Tune and optimise the queries to meet the acceptable or better performance as agreed with the customer.
+# Customer sign off on performance.
+
+
+
+Tip: Repeat this story for all databases in scope for migration",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r8f:,,,,,,,,,,,,,To Do
+Database X: AWS Prod CutOver Support,DBMIG-67,28762,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,05/Oct/21 8:01 AM,05/Oct/21 8:09 AM,05/Oct/21 8:08 AM,,,0,"As a migration team, I want to provide consultation and assistance(if required) for production cut-over planning so that the go live is executed smoothly.
+
+
+
+Tip: Repeat this story for all databases in scope for migration",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r8n:,,,,,,,,,,,,,To Do
+Database X Sign Off,DBMIG-68,28763,,Story,To Do,DBMIG,DK-DBMigration,software,Ivan Biddles,5ced96abb457f80f23adac7d,,Medium,,,,Uma Agarwal,5f2959fdf78bea00168662d3,Uma Agarwal,5f2959fdf78bea00168662d3,05/Oct/21 8:25 AM,05/Oct/21 8:26 AM,05/Oct/21 8:25 AM,,,0,"As an Engagement Manager, I want to document Customer Sign off after the database test and cut-over (as applicable), so that the outcome can be mapped against the business objectives which were planned in Launch Ready Plan/Planning. 
+
+
+
+Tip: This will also be part of Project Closure",,Uma Agarwal,5f2959fdf78bea00168662d3,,,,,,,,,,,,{},,DBMIG-46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00r8v:,,,,,,,,,,,,,To Do
