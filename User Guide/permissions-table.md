@@ -1,6 +1,6 @@
 # Permissions<a name="permissions-table"></a>
 
-MigOps defines five roles: `MigrationSpaceAdmin`, `MigrationSpaceContributor`, `JourneyAdmin`, `JourneyContributor`, and `TeamContributor`\. The following sections describe the actions that each of the five roles can perform on migration spaces, migration journeys, and teams\. For information about how to get or assign these roles, see [Roles](roles.md)\.
+AWS MigOps defines five roles: `MigrationSpaceAdmin`, `MigrationSpaceContributor`, `JourneyAdmin`, `JourneyContributor`, and `TeamContributor`\. The following sections describe the actions that each of the five roles can perform on migration spaces, migration journeys, and teams\. For information about how to get or assign these roles, see [Roles](roles.md)\.
 
 ## Role permissions in migration spaces<a name="migration-space-permissions"></a>
 

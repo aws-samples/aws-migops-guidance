@@ -1,6 +1,6 @@
-# Quotas for MigOps<a name="load-balancer-limits"></a>
+# Quotas for AWS MigOps<a name="load-balancer-limits"></a>
 
-This private preview release of MigOps comes with the following quota\. To request a quota increase, work with your AWS contact\. 
+This private preview release of AWS MigOps comes with the following quota\. To request a quota increase, work with your AWS contact\. 
 
 
 | Name | Default | Adjustable | Comments | 
