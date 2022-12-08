@@ -12,7 +12,7 @@ You don't have to respond through the email\. You can go directly to the **Pendi
 
 **To view and accept or reject invitations**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -22,7 +22,7 @@ You don't have to respond through the email\. You can go directly to the **Pendi
 
 **To view and accept or reject journey transfer requests**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 

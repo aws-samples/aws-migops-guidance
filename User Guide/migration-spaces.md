@@ -10,7 +10,7 @@ For information about the roles that you can have in a migration space and the a
 
 **To view the migration journeys in a migration space**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -24,7 +24,7 @@ A migration space can have individuals that are members of the space\. For infor
 
 **To view the individuals that are members of a specific migration space**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -64,7 +64,7 @@ In addition to individual members, a migration space can have teams that are mem
 
 **To view the teams in a specific migration space**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -76,7 +76,7 @@ In addition to individual members, a migration space can have teams that are mem
 
 **To create a new team in a migration space**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -96,7 +96,7 @@ In addition to individual members, a migration space can have teams that are mem
 
 **To add an individual to an existing team**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 

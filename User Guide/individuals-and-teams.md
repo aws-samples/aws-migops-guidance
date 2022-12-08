@@ -4,7 +4,7 @@ A migration journey can have two types of members: individuals and teams\. A mem
 
 **To view the individuals and teams that are members of a migration journey**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 

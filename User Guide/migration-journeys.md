@@ -12,7 +12,7 @@ Whether you use a template or create a custom journey, you can edit the structur
 
 **To create a migration journey from a template**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -32,7 +32,7 @@ Whether you use a template or create a custom journey, you can edit the structur
 
 **To create a custom migration journey**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -72,7 +72,7 @@ A migration journey can have any of the status values that appear in the followi
 
 The following procedure shows you how to update the status, description, and target date of a migration journey\.
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -94,7 +94,7 @@ After you create a migration journey, you can send a request to transfer the jou
 
 **To transfer a journey**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 

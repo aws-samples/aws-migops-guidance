@@ -6,7 +6,7 @@ This topic describes the actions that you can perform on a phase\. Your role det
 
 **To view the phases of a migration journey**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -20,7 +20,7 @@ This topic describes the actions that you can perform on a phase\. Your role det
 
 **To add a phase to a migration journey**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -38,7 +38,7 @@ This topic describes the actions that you can perform on a phase\. Your role det
 
 **To view the modules in a phase**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -58,7 +58,7 @@ This topic describes the actions that you can perform on a phase\. Your role det
 
 You can move a phase out of scope\. This action removes its modules from the journey but doesn't delete the phase\. You can move the phase back in scope again at any time and that action puts its modules back in the journey\. There's no limit on the number of times that you can move a phase out of scope or back in scope\.
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -76,7 +76,7 @@ You can move a phase out of scope\. This action removes its modules from the jou
 
 When you move a phase back in scope, this action puts its modules back in the journey\. There's no limit on the number of times that you can move a phase out of scope or back in scope again\.
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -94,7 +94,7 @@ When you move a phase back in scope, this action puts its modules back in the jo
 
 When you delete a phase, you permanently remove it from the journey\. To delete a phase, you must first delete all of its tasks\. Only a member with the `JourneyAdmin` role can delete a phase\. A `JourneyContributor` can't delete a phase\. For more information about roles and permissions, see [Roles and permissions](permissions.md)\.
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 

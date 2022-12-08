@@ -4,7 +4,7 @@ In this tutorial you create a migration journey that uses the general migration 
 
 **Create the migration journey**
 
-1. Open the AWS MigOps console at [https://beta.us-west-2.console.migops.migration-services.aws.dev/](https://beta.us-west-2.console.migops.migration-services.aws.dev/)\.
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. Choose **Go to MigOps Dashboard**\.
 
@@ -26,7 +26,7 @@ In this tutorial you create a migration journey that uses the general migration 
 
 It might take AWS MigOps up to a minute to create the journey for you\. The following image shows the journey overview that you see when the journey is ready\.
 
-![\[alt_text\]](http://docs.aws.amazon.com/migops/latest/userguide/images/successfully-created-journey.png)
+![](images/successfully-created-journey.png)
 
 To finish setting up the journey, you invite team members to participate in the journey, then you edit its contents to match your specific migration scenario\. 
 
@@ -39,7 +39,7 @@ In this procedure, you invite two people to join the migration space that you cr
 1. Choose the name of the **tutorial\-space** migration space\. This is the space that you created while creating the journey\. This will take you to the migration space's details page\.
 
 1. On the details page, choose the **Individuals** tab that is shown in the following image\.  
-![\[alt_text\]](http://docs.aws.amazon.com/migops/latest/userguide/images/migration-space-individuals.png)
+![](images/migration-space-individuals.png)
 
 1. Choose **Invite**\.
 
@@ -52,7 +52,7 @@ In this procedure, you invite two people to join the migration space that you cr
 1. In the list of journeys, choose the name **general\-migration\-tutorial\-journey**\.
 
 1. On the journey details page, choose the **Individuals and teams** tab that is shown in the following image\.   
-![\[alt_text\]](http://docs.aws.amazon.com/migops/latest/userguide/images/journey-individuals-and-teams.png)
+![](images/journey-individuals-and-teams.png)
 
 1. Choose **Invite**\.
 
@@ -69,12 +69,12 @@ In this procedure, you invite two people to join the migration space that you cr
 The general\-migration template includes tasks for performing a Migration Readiness Assessment \(MRA\)\. In this tutorial we imagine a scenario where you've already performed an MRA\. Therefore, the MRA tasks aren't needed\. In the following procedure, you delete the MRA tasks, and you attach your MRA report to the journey\.
 
 1. Choose the **Tasks** tab that is shown in the following image\.   
-![\[alt_text\]](http://docs.aws.amazon.com/migops/latest/userguide/images/tasks-tab.png)
+![](images/tasks-tab.png)
 
 1. Choose the task **MRA \- Review objectives and best practices**\.
 
 1. On the task details page, choose the **Actions menu**, then choose **Delete** as shown in the following image\.  
-![\[alt_text\]](http://docs.aws.amazon.com/migops/latest/userguide/images/delete-task.png)
+![](images/delete-task.png)
 
 1. In the dialog box, type **delete**, then choose **Delete**\.
 
@@ -91,9 +91,9 @@ The general\-migration template includes tasks for performing a Migration Readin
 1. On the journey's **Tasks** tab, choose the task **Perform MRA workshop activities**\.
 
 1. On the task's details page, choose the **Files** tab as shown in the following image\.  
-![\[alt_text\]](http://docs.aws.amazon.com/migops/latest/userguide/images/attach-files-to-task.png)
+![](images/attach-files-to-task.png)
 
 1. Choose **Choose file**, then upload your company's MRA report\. For this tutorial, you can upload any example file, even if it's an empty file\.
 
 1. Go back to the journey's **Tasks** tab, and move the **Perform MRA workshop activities** task to the **Completed** column as shown in the following image\.  
-![\[alt_text\]](http://docs.aws.amazon.com/migops/latest/userguide/images/completed-task.png)
+![](images/completed-task.png)
