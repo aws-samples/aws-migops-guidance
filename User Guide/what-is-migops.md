@@ -6,6 +6,15 @@ The core concept in AWS MigOps is the migration journey, which is a pipeline of 
 
 ![](images/migops-logical-flow.png)
 
+## Setting up for AWS MigOps
+
+To access the [AWS MigOps console](https://prod.us-east-2.console.migops.migration-services.aws.dev/), you need to have an [AWS Builder ID](https://docs.aws.amazon.com/general/latest/gr/aws_builder_id.html).
+
+AWS MigOps doesn't currently support requesting or deleting your data through the process described in [Privacy and data in AWS Builder ID](https://docs.aws.amazon.com/general/latest/gr/privacy-aws_builder_id.html). To request or delete your AWS MigOps data, contact your AWS representative.
+
+Amazon employees don't need an AWS Builder ID and can instead use Midway authentication to access the AWS MigOps console.
+
+
 ## Are you a first\-time AWS MigOps user?<a name="first-time-user"></a>
 
 If you are a first\-time user of AWS MigOps, we recommend that you begin by reading the following sections:
