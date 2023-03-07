@@ -54,6 +54,28 @@ This topic describes the actions that you can perform on a phase\. Your role det
 
 
 
+**To reorder a phase**
+
+You can change the order in which you want to perform a phase relative to other phases in the same journey\.
+
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+
+1. Choose **Go to MigOps Dashboard**\.
+
+1. In the left navigation pane, choose **Migration journeys**\.
+
+1. In the list of migration journeys, choose the name of the journey that contains the phase\.
+
+1. Choose the **Phases** tab\.
+
+1. Choose **Reorder phases**\.
+
+1. Drag the phase that you want to reorder and drop it in the position that you want it to have relative to the other phases in the journey\.
+
+1. You can reorder multiple phases\. You can also move a phase multiple times\. When you finish reordering, choose **Exit** to save your changes\.
+
+
+
 **To move a phase out of scope**
 
 You can move a phase out of scope\. This action removes its modules from the journey but doesn't delete the phase\. You can move the phase back in scope again at any time and that action puts its modules back in the journey\. There's no limit on the number of times that you can move a phase out of scope or back in scope\.

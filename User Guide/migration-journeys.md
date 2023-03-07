@@ -22,7 +22,7 @@ Whether you use a template or create a custom journey, you can edit the structur
 
 1. In the **Journey details** tile, enter a name for the journey\.
 
-   The description and target date files are optional\. If you leave them blank, you can specify them after you create the journey\.
+   The description and completion date fields are optional\. If you leave them blank, you can specify them after you create the journey\.
 
    Choose the migration space in which you want to put the journey\. Alternatively, you can enter a name for a new migration space, and MigOps will create the migration space at the same time it creates the journey\. 
 
@@ -42,7 +42,7 @@ Whether you use a template or create a custom journey, you can edit the structur
 
 1. In the **Journey details** tile, enter a name for the journey\.
 
-   The description and target date files are optional\. If you leave them blank, you can specify them after you create the journey\.
+   The description and completion date fields are optional\. If you leave them blank, you can specify them after you create the journey\.
 
    Choose the migration space in which you want to put the journey\. Alternatively, you can enter a name for a new migration space, and MigOps will create the migration space at the same time it creates the journey\. 
 
@@ -68,9 +68,29 @@ A migration journey can have any of the status values that appear in the followi
 | Completed | This status marks the journey as complete\. | 
 | Creation failed | This status indicates that there was an error that prevented the successful creation of the journey\. If you see this status, delete the journey\. | 
 
+## Copying a journey<a name="journey-copy"></a>
+
+The following procedure shows you how to create a copy of a migration journey\. The copy that you create will have the same phases, modules, tasks, subtasks, task dependencies, acceptance criteria, and tools as the original journey\. In the copy, all the phases and modules will be in scope and the status of all the tasks will be `Planned`\. Attachments, assignees, and comments won't be included in the copy\.
+
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+
+1. In the left navigation pane, choose **Migration journeys**\.
+
+1. In the list of migration journeys, choose the name of the journey that you want to copy\.
+
+1. Choose **Actions**, then choose **Copy journey**\.
+
+1. Specify a different name for the copy if you don't want it to have the name that AWS MigOps suggests\.
+
+1. You can optionally specify a description and a completion date for the copy\.
+
+1. Specify the migration space in which you want to place the copy\. You can choose an existing migration space or create a new one\.
+
+1. Choose **Copy**\.
+
 ## Updating a journey<a name="journey-updates"></a>
 
-The following procedure shows you how to update the status, description, and target date of a migration journey\.
+The following procedure shows you how to update the status, description, and completion date of a migration journey\.
 
 1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 

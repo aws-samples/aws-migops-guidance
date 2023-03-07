@@ -18,6 +18,8 @@ For information about tasks and subtasks, see [Tasks and subtasks](tasks.md)\.
 
 1. Choose the **Modules** tab\.
 
+
+
 **To add a module to a migration journey**
 
 1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
@@ -35,6 +37,30 @@ For information about tasks and subtasks, see [Tasks and subtasks](tasks.md)\.
 1. Enter a title for the module and specify the phase where you want to put the module\.
 
 1. Choose **Add module**\.
+
+
+
+**To reorder a module**
+
+You can change the order in which you want to perform a module relative to other modules in the same phase\.
+
+1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+
+1. Choose **Go to MigOps Dashboard**\.
+
+1. In the left navigation pane, choose **Migration journeys**\.
+
+1. In the list of migration journeys, choose the name of the journey whose modules you want to reorder\.
+
+1. Choose the **Modules** tab\.
+
+1. Choose **Reorder modules**\.
+
+1. Drag the module that you want to reorder and drop it in the position that you want it to have relative to the other modules in the phase\.
+
+1. You can reorder multiple modules\. You can also move a module multiple times\. When you finish reordering, choose **Exit** to save your changes\.
+
+
 
 **To delete a module or to move it out of scope or into scope**
 
