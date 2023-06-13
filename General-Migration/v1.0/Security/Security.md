@@ -109,47 +109,14 @@ Decisions
 
 **AWS Cloud Adoption Framework (CAF) Security Perspective**
 
- ![](/.attachments/DK-Security/image2019-7-29_20-10-1.png)
-
   
-
 **MRP Security Workstream Activity Map**
-
- ![](/.attachments/DK-Security/image2019-7-29_19-55-19.png)
-
   
 
 **MRP Security Workstream Example Journey**
 
- ![](/.attachments/DK-Security/image2019-7-29_19-52-35.png)
 
 **MRP Security Workstream Delivery Team**
 
- ![](/.attachments/DK-Security/image2019-7-29_20-6-16.png)
 
  **Attachments:** 
-
-
-[image2019-7-29_19-40-14.png](/.attachments/DK-Security/image2019-7-29_19-40-14.png)
-
-[image2019-7-29_19-43-51.png](/.attachments/DK-Security/image2019-7-29_19-43-51.png)
-
-[image2019-7-29_19-44-0.png](/.attachments/DK-Security/image2019-7-29_19-44-0.png)
-
-[image2019-7-29_19-47-18.png](/.attachments/DK-Security/image2019-7-29_19-47-18.png)
-
-[image2019-7-29_19-49-5.png](/.attachments/DK-Security/image2019-7-29_19-49-5.png)
-
-[image2019-7-29_19-52-35.png](/.attachments/DK-Security/image2019-7-29_19-52-35.png)
-
-[image2019-7-29_19-55-19.png](/.attachments/DK-Security/image2019-7-29_19-55-19.png)
-
-[image2019-7-29_20-10-1.png](/.attachments/DK-Security/image2019-7-29_20-10-1.png)
-
-[image2019-7-29_20-6-16.png](/.attachments/DK-Security/image2019-7-29_20-6-16.png)
-
-[image2019-7-29_20-7-59.png](/.attachments/DK-Security/image2019-7-29_20-7-59.png)
-
-[image2019-7-29_20-8-37.png](/.attachments/DK-Security/image2019-7-29_20-8-37.png)
-
-[image2019-7-29_20-9-17.png](/.attachments/DK-Security/image2019-7-29_20-9-17.png)

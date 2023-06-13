@@ -19,7 +19,3 @@ To provide for a comprehensive network and application security, \[Customer\] w
 
  **Attachments:** 
 
-
-[Untitled%20Diagram.drawio](/.attachments/DK-Security/Untitled%20Diagram.drawio)
-
-[Untitled%20Diagram.drawio.png](/.attachments/DK-Security/Untitled%20Diagram.drawio.png)

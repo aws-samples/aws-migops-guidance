@@ -47,17 +47,5 @@ Option 2 - virtual location
 
 Each Jam event participant should visit [https://jam.awsevents.com](https://jam.awsevents.com) and register for an account if they don’t already have one. 
 
- ![](/.attachments/DK-Security/image-20200508-153455.png)
-
-  
-
- ![](/.attachments/DK-Security/image-20200508-153537.png)
 
  **Attachments:** 
-
-
-[image-20200508-153455.png](/.attachments/DK-Security/image-20200508-153455.png)
-
-[image-20200508-153537.png](/.attachments/DK-Security/image-20200508-153537.png)
-
-[image-20200508-153622.png](/.attachments/DK-Security/image-20200508-153622.png)

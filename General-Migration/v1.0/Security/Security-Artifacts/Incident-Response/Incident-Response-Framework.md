@@ -33,6 +33,3 @@ This document will cover each of the four main response activities shown in the 
 For Ozone implementations, playbooks in this section apply to non-Ozone managed accounts only.
 
  **Attachments:** 
-
-
-[image2019-7-19_11-14-24.png](/.attachments/DK-Security/image2019-7-19_11-14-24.png)
