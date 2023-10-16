@@ -1,4 +1,4 @@
-# AWS MigOps User Guide
+# Migration Hub User Guide
 
 -----
 *****Copyright &copy; Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
@@ -14,7 +14,7 @@ sponsored by Amazon.
 
 -----
 ## Contents
-+ [What is AWS MigOps?](what-is-migops.md)
++ [What are AWS Migration Hub journeys?](what-is-migops.md)
 + [Migration journeys](migration-journeys.md)
    + [Phases](phases.md)
    + [Modules](modules.md)
@@ -30,4 +30,4 @@ sponsored by Amazon.
 + [Tutorials](tutorials.md)
    + [Creating a migration journey from a template](template-migration-tutorial.md)
    + [Creating a custom migration journey](custom-migration-tutorial.md)
-+ [Quotas for AWS MigOps](load-balancer-limits.md)
++ [Quotas for AWS Migration Hub](quotas.md)

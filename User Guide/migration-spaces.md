@@ -2,7 +2,7 @@
 
 A migration space is a logical container for organizing migration journeys\. It is also a logical container for two types of members: individuals and teams\.
 
-To view your migration spaces, go to the AWS MigOps console, and in the navigation pane on the left, choose **Migration spaces**\. You can view the spaces of which you are a member, either as an administrator or a contributor\.
+To view your migration spaces, go to the Migration Hub console, and in the navigation pane on the left, choose **Migration spaces**\. You can view the spaces of which you are a member, either as an administrator or a contributor\.
 
 For information about the roles that you can have in a migration space and the actions that those roles allow you to perform, see [Roles and permissions](permissions.md)\.
 
@@ -10,13 +10,13 @@ For information about the roles that you can have in a migration space and the a
 
 **To view the migration journeys in a migration space**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration spaces**\.
 
-1. In the list of migration spaces, choose the name of the space whose migration journeys you want to view\. In the space's **Migration journeys** tab, AWS MigOps shows you all the journeys that you have permissions to view\. If you are looking for a specific journey but don't see it on the space's **Migration journeys** tab, check your permissions\. For more information, see [Roles and permissions](permissions.md)\.
+1. In the list of migration spaces, choose the name of the space whose migration journeys you want to view\. In the space's **Migration journeys** tab, Migration Hub shows you all the journeys that you have permissions to view\. If you are looking for a specific journey but don't see it on the space's **Migration journeys** tab, check your permissions\. For more information, see [Roles and permissions](permissions.md)\.
 
 ## Individuals<a name="individuals"></a>
 
@@ -24,9 +24,9 @@ A migration space can have individuals that are members of the space\. For infor
 
 **To view the individuals that are members of a specific migration space**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration spaces**\.
 
@@ -50,9 +50,9 @@ A migration space can have individuals that are members of the space\. For infor
 
 1. Look for an email with the title *You've been invited to join the *name\-of\-the\-migration\-space* migration space*\.
 
-   Don't reply to the email\. Instead, choose the hyperlinked word **Respond** in the body of the email\. Choosing **Respond** takes you to the **Pending actions** page in the AWS MigOps console\.
+   Don't reply to the email\. Instead, choose the hyperlinked word **Respond** in the body of the email\. Choosing **Respond** takes you to the **Pending actions** page in the Migration Hub console\.
 
-   If you know you've received an invitation but don't see the invitation email, go to the AWS MigOps console, and choose **Pending actions** in the navigation pane\.
+   If you know you've received an invitation but don't see the invitation email, go to the Migration Hub console, and choose **Pending actions** in the navigation pane\.
 
 1. In the **Invitations** tile, choose the radio button next to the invitation that you want to accept or reject\.
 
@@ -64,9 +64,9 @@ In addition to individual members, a migration space can have teams that are mem
 
 **To view the teams in a specific migration space**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration spaces**\.
 
@@ -76,9 +76,9 @@ In addition to individual members, a migration space can have teams that are mem
 
 **To create a new team in a migration space**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration spaces**\.
 
@@ -96,9 +96,9 @@ In addition to individual members, a migration space can have teams that are mem
 
 **To add an individual to an existing team**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration spaces**\.
 
@@ -118,9 +118,9 @@ In addition to individual members, a migration space can have teams that are mem
 
 1. Look for an email with the title *You've been Invited to join the *name\-of\-the\-team* migration team*\.
 
-   Don't reply to the email\. Instead, choose the hyperlinked word **Respond** in the body of the email\. Choosing **Respond** takes you to the **Pending actions** page in the AWS MigOps console\.
+   Don't reply to the email\. Instead, choose the hyperlinked word **Respond** in the body of the email\. Choosing **Respond** takes you to the **Pending actions** page in the Migration Hub console\.
 
-   If you know you've received an invitation but don't see the invitation email, go to the AWS MigOps console, and choose **Pending actions** in the navigation pane\.
+   If you know you've received an invitation but don't see the invitation email, go to the Migration Hub console, and choose **Pending actions** in the navigation pane\.
 
 1. In the **Invitations** tile, choose the radio button next to the invitation that you want to accept or reject\.
 

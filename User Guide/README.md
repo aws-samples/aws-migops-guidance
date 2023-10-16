@@ -1,6 +1,6 @@
 ## AWS MigOps User Guide
 
-The open source version of the AWS MigOps User Guide. To submit feedback or requests for changes, submit an issue or make changes and submit a pull request.
+The open source version of the AWS Migration Hub User Guide. To submit feedback or requests for changes, submit an issue or make changes and submit a pull request.
 
 -----
 *****Copyright &copy; Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
@@ -16,7 +16,7 @@ sponsored by Amazon.
 
 -----
 ## Contents
-+ [What is AWS MigOps?](what-is-migops.md)
++ [What is AWS Migration Hub journeys?](what-is-migops.md)
 + [Migration journeys](migration-journeys.md)
    + [Phases](phases.md)
    + [Modules](modules.md)

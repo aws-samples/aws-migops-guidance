@@ -4,7 +4,7 @@ A migration journey is an Amazon resource that you create and use to plan, organ
 
 ## Creating a journey<a name="journey-creation"></a>
 
-AWS MigOps provides templates that you can use to create your migration journey\. These templates represent common migration scenarios and follow best practices\. When you can create a journey from a template, you get a journey with predefined phases, modules, tasks, and subtasks\.
+Migration Hub provides templates that you can use to create your migration journey\. These templates represent common migration scenarios and follow best practices\. When you can create a journey from a template, you get a journey with predefined phases, modules, tasks, and subtasks\.
 
 If you have a migration scenario that doesn't match any of the templates, you can create a custom journey\. In this case, you get an empty journey to which you add the phases, modules, tasks, and subtasks that you need for your migration\.
 
@@ -12,9 +12,9 @@ Whether you use a template or create a custom journey, you can edit the structur
 
 **To create a migration journey from a template**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. Choose **Create migration journey**\.
 
@@ -24,7 +24,7 @@ Whether you use a template or create a custom journey, you can edit the structur
 
    The description and completion date fields are optional\. If you leave them blank, you can specify them after you create the journey\.
 
-   Choose the migration space in which you want to put the journey\. Alternatively, you can enter a name for a new migration space, and MigOps will create the migration space at the same time it creates the journey\. 
+   Choose the migration space in which you want to put the journey\. Alternatively, you can enter a name for a new migration space, and Migration Hub will create the migration space at the same time it creates the journey\. 
 
 1. Choose the template that you want to use for the journey\.
 
@@ -32,9 +32,9 @@ Whether you use a template or create a custom journey, you can edit the structur
 
 **To create a custom migration journey**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. Choose **Create migration journey**\.
 
@@ -44,7 +44,7 @@ Whether you use a template or create a custom journey, you can edit the structur
 
    The description and completion date fields are optional\. If you leave them blank, you can specify them after you create the journey\.
 
-   Choose the migration space in which you want to put the journey\. Alternatively, you can enter a name for a new migration space, and MigOps will create the migration space at the same time it creates the journey\. 
+   Choose the migration space in which you want to put the journey\. Alternatively, you can enter a name for a new migration space, and Migration Hub will create the migration space at the same time it creates the journey\. 
 
 1. In the **Create phases** tile, you can specify the phases that you want your journey to have\. However, you are not required to specify any phases while creating the journey\. You can add and remove phases after you create the journey\.
 
@@ -72,7 +72,7 @@ A migration journey can have any of the status values that appear in the followi
 
 The following procedure shows you how to create a copy of a migration journey\. The copy that you create will have the same phases, modules, tasks, subtasks, task dependencies, acceptance criteria, and tools as the original journey\. In the copy, all the phases and modules will be in scope and the status of all the tasks will be `Planned`\. Attachments, assignees, and comments won't be included in the copy\.
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -80,7 +80,7 @@ The following procedure shows you how to create a copy of a migration journey\. 
 
 1. Choose **Actions**, then choose **Copy journey**\.
 
-1. Specify a different name for the copy if you don't want it to have the name that AWS MigOps suggests\.
+1. Specify a different name for the copy if you don't want it to have the name that Migration Hub suggests\.
 
 1. You can optionally specify a description and a completion date for the copy\.
 
@@ -92,9 +92,9 @@ The following procedure shows you how to create a copy of a migration journey\. 
 
 The following procedure shows you how to update the status, description, and completion date of a migration journey\.
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -114,9 +114,9 @@ After you create a migration journey, you can send a request to transfer the jou
 
 **To transfer a journey**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -132,4 +132,4 @@ After you create a migration journey, you can send a request to transfer the jou
 
    In addition to the invitation email, the individual can also go to **Pending actions** to see the transfer request that you sent them and to accept it or reject it\. For more information, see [Pending actions](pending-actions.md)\.
 **Important**  
-For the transfer to take effect, the individual to whom you sent the transfer request must accept that request\. To accept the request, they can choose **Respond** in the transfer email, or they can go directly to **Pending actions** in the AWS MigOps console\. For more information, see [Pending actions](pending-actions.md)\. 
+For the transfer to take effect, the individual to whom you sent the transfer request must accept that request\. To accept the request, they can choose **Respond** in the transfer email, or they can go directly to **Pending actions** in the Migration Hub console\. For more information, see [Pending actions](pending-actions.md)\. 

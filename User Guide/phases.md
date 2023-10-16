@@ -6,9 +6,9 @@ This topic describes the actions that you can perform on a phase\. Your role det
 
 **To view the phases of a migration journey**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -20,9 +20,9 @@ This topic describes the actions that you can perform on a phase\. Your role det
 
 **To add a phase to a migration journey**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -38,9 +38,9 @@ This topic describes the actions that you can perform on a phase\. Your role det
 
 **To view the modules in a phase**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -56,11 +56,11 @@ This topic describes the actions that you can perform on a phase\. Your role det
 
 **To reorder a phase**
 
-You can change the order in which you want to perform a phase relative to other phases in the same journey\.
+The rank of a phase is the order in which you want to perform the phase relative to other phases in the same journey\.
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -68,7 +68,7 @@ You can change the order in which you want to perform a phase relative to other 
 
 1. Choose the **Phases** tab\.
 
-1. Choose **Reorder phases**\.
+1. Choose **reorder phases**\.
 
 1. Drag the phase that you want to reorder and drop it in the position that you want it to have relative to the other phases in the journey\.
 
@@ -80,9 +80,9 @@ You can change the order in which you want to perform a phase relative to other 
 
 You can move a phase out of scope\. This action removes its modules from the journey but doesn't delete the phase\. You can move the phase back in scope again at any time and that action puts its modules back in the journey\. There's no limit on the number of times that you can move a phase out of scope or back in scope\.
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -98,9 +98,9 @@ You can move a phase out of scope\. This action removes its modules from the jou
 
 When you move a phase back in scope, this action puts its modules back in the journey\. There's no limit on the number of times that you can move a phase out of scope or back in scope again\.
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -116,9 +116,9 @@ When you move a phase back in scope, this action puts its modules back in the jo
 
 When you delete a phase, you permanently remove it from the journey\. To delete a phase, you must first delete all of its tasks\. Only a member with the `JourneyAdmin` role can delete a phase\. A `JourneyContributor` can't delete a phase\. For more information about roles and permissions, see [Roles and permissions](permissions.md)\.
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 

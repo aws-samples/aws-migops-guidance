@@ -8,9 +8,9 @@ For information about tasks and subtasks, see [Tasks and subtasks](tasks.md)\.
 
 **To view the modules of a migration journey**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -22,9 +22,9 @@ For information about tasks and subtasks, see [Tasks and subtasks](tasks.md)\.
 
 **To add a module to a migration journey**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -44,9 +44,9 @@ For information about tasks and subtasks, see [Tasks and subtasks](tasks.md)\.
 
 You can change the order in which you want to perform a module relative to other modules in the same phase\.
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -64,9 +64,9 @@ You can change the order in which you want to perform a module relative to other
 
 **To delete a module or to move it out of scope or into scope**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 

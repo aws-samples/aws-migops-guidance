@@ -1,6 +1,6 @@
-# Quotas for AWS MigOps<a name="quotas"></a>
+# Quotas for AWS Migration Hub<a name="quotas"></a>
 
-This private preview release of AWS MigOps comes with the following quota\. To request a quota increase, work with your AWS contact\. 
+This private preview release of Migration Hub comes with the following quota\. To request a quota increase, work with your AWS contact\. 
 
 
 | Name | Default | Adjustable | Comments | 

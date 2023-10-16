@@ -10,9 +10,9 @@ For information about how to attach files to a task or a subtask, see [Attached 
 
 **To view the tasks in a migration journey**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -26,9 +26,9 @@ For information about how to attach files to a task or a subtask, see [Attached 
 
 You can change the order in which you want to perform a task relative to other tasks in the same module\. The status of a task can be one of the following: **Planned**, **In progress**, **Completed**, or **Out of scope**\.
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -36,7 +36,7 @@ You can change the order in which you want to perform a task relative to other t
 
 1. Choose the **Tasks** tab\.
 
-1. Drag the task that you want to move and drop it at a different position relative to other tasks in the same status column or in a different column if you want to change its status\. Every time you move a task, AWS MigOps automatically saves that change\.
+1. Drag the task that you want to move and drop it at a different position relative to other tasks in the same status column or in a different column if you want to change its status\. Every time you move a task, Migration Hub automatically saves that change\.
 
 
 
@@ -44,9 +44,9 @@ You can change the order in which you want to perform a task relative to other t
 
 The details of a task include its title, status, due date, estimated effort, effort spent, and assignee\. Only members of the task's journey appear in the list of assignees\. For information about membership, see [Individuals and teams](individuals-and-teams.md)\.
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -64,9 +64,9 @@ The details of a task include its title, status, due date, estimated effort, eff
 
 A task can contain steps and subtasks\. Subtasks can only contain steps\.
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 
@@ -86,9 +86,9 @@ A task can contain steps and subtasks\. Subtasks can only contain steps\.
 
 **To change the status of a task**
 
-1. Open the AWS MigOps console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
+1. Open the Migration Hub console at [https://prod.us-east-2.console.migops.migration-services.aws.dev/](https://prod.us-east-2.console.migops.migration-services.aws.dev/)\.
 
-1. Choose **Go to MigOps Dashboard**\.
+1. Choose **Go to Migration Hub Dashboard**\.
 
 1. In the left navigation pane, choose **Migration journeys**\.
 

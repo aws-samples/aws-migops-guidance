@@ -1,6 +1,6 @@
 # Roles<a name="roles"></a>
 
-AWS MigOps defines five roles: `MigrationSpaceAdmin`, `MigrationSpaceContributor`, `JourneyAdmin`, `JourneyContributor`, and `TeamContributor`\. This topic explains how to assign these roles\. For the permissions that are associated with each of the five roles, see [Permissions](permissions-table.md)\.
+Migration Hub defines five roles: `MigrationSpaceAdmin`, `MigrationSpaceContributor`, `JourneyAdmin`, `JourneyContributor`, and `TeamContributor`\. This topic explains how to assign these roles\. For the permissions that are associated with each of the five roles, see [Permissions](permissions-table.md)\.
 
 **Important**  
 When you edit the role of a team or an individual, it can take up to 5 minutes for the role change to take effect after you see the change in the console\.
@@ -93,7 +93,7 @@ A `MigrationSpaceAdmin` can invite an individual to become a `MigrationSpaceCont
 
    In addition to the invitation email, the individual can also go to **Pending actions** to see the invitation that you sent them and to accept it or reject it\. For more information, see [Pending actions](pending-actions.md)\.
 **Important**  
-For the recipient of the invitation to get the `MigrationSpaceContributor` role, they must accept the invitation that you sent them\. To accept the invitation, they can choose **Respond** in the invitation email, or they can go directly to **Pending actions** in the AWS MigOps console\. For more information, see [Pending actions](pending-actions.md)\. 
+For the recipient of the invitation to get the `MigrationSpaceContributor` role, they must accept the invitation that you sent them\. To accept the invitation, they can choose **Respond** in the invitation email, or they can go directly to **Pending actions** in the Migration Hub console\. For more information, see [Pending actions](pending-actions.md)\. 
 
 **To create a team and give it the `MigrationSpaceContributor` role**
 
@@ -183,7 +183,7 @@ A `MigrationSpaceAdmin` or a `JourneyAdmin` can make an individual or a team a `
 
    In addition to the invitation email, the individual can also go to **Pending actions** to see the invitation that you sent them and to accept it or reject it\. For more information, see [Pending actions](pending-actions.md)\.
 **Important**  
-For the recipient of the invitation to get the `JourneyAdmin` role, they must accept the invitation that you sent them\. To accept the invitation, they can choose **Respond** in the invitation email, or they can go directly to **Pending actions** in the AWS MigOps console\. For more information, see [Pending actions](pending-actions.md)\. 
+For the recipient of the invitation to get the `JourneyAdmin` role, they must accept the invitation that you sent them\. To accept the invitation, they can choose **Respond** in the invitation email, or they can go directly to **Pending actions** in the Migration Hub console\. For more information, see [Pending actions](pending-actions.md)\. 
 
 ## JourneyContributor<a name="journey-contributor"></a>
 
@@ -230,7 +230,7 @@ If an individual or a team is a `JourneyContributor` in a journey, but a `Migrat
 
    In addition to the invitation email, the individual can also go to **Pending actions** to see the invitation that you sent them and to accept it or reject it\. For more information, see [Pending actions](pending-actions.md)\.
 **Important**  
-For the recipient of the invitation to get the `JourneyContributor` role, they must accept the invitation that you sent them\. To accept the invitation, they can choose **Respond** in the invitation email, or they can go directly to **Pending actions** in the AWS MigOps console\. For more information, see [Pending actions](pending-actions.md)\. 
+For the recipient of the invitation to get the `JourneyContributor` role, they must accept the invitation that you sent them\. To accept the invitation, they can choose **Respond** in the invitation email, or they can go directly to **Pending actions** in the Migration Hub console\. For more information, see [Pending actions](pending-actions.md)\. 
 
 ## TeamContributor<a name="team-contributor"></a>
 
@@ -258,4 +258,4 @@ A `MigrationSpaceAdmin` can invite an individual to become a `TeamContributor`\.
 
    In addition to the invitation email, the individual can also go to **Pending actions** to see the invitation that you sent them and to accept it or reject it\. For more information, see [Pending actions](pending-actions.md)\.
 **Important**  
-For the recipient of the invitation to get the `TeamContributor` role, they must accept the invitation that you sent them\. To accept the invitation, they can choose **Respond** in the invitation email, or they can go directly to **Pending actions** in the AWS MigOps console\. For more information, see [Pending actions](pending-actions.md)\. 
+For the recipient of the invitation to get the `TeamContributor` role, they must accept the invitation that you sent them\. To accept the invitation, they can choose **Respond** in the invitation email, or they can go directly to **Pending actions** in the Migration Hub console\. For more information, see [Pending actions](pending-actions.md)\. 
